@@ -1,0 +1,11 @@
+.custom-banner-g{
+    background-image: url(../../../img/appointmentBanner-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #3a4256;
+    background-blend-mode:multiply;
+}
+.doctorImg{
+    height: 700px;
+}
