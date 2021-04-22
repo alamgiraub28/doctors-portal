@@ -1,0 +1,17 @@
+.infoIcon{
+    font-size: 45px;
+}
+
+.info-primary{
+    background-color:#1cc7c1
+}
+
+.info-dark{
+    background-color: #3a4256;
+
+}
+
+.cardContain{
+   margin-top: -70px;
+   z-index: 1;
+}
